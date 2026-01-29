@@ -1,2 +1,2 @@
-# AFM
-Adaptive Fine-Grained Image–Text Matching via Semantic Manifold Modeling
+# SMSL
+Semantic Manifold-Aware Cross-Modal Similarity Learning 
